@@ -14,7 +14,7 @@ export default defineType({
             name: "works",
             title: "Works",
             type: "array",
-            of: [{type: "WorkExperience"}]
+            of: [{type: "workExperience"}]
         })
     ]
 })
